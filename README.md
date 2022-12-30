@@ -25,6 +25,6 @@ Start Wireshark - click the sharkfin icon to start capture
 Back to Wireshark - stop capture, scroll to top - look for the first SMB packet - right click it - Follow - TCP Stream  
 We will see the samba version.
 
-Alternative:
+Alternative:  
 You can use metasploit: auxiliary/scanner/smb/smb_version  
 
