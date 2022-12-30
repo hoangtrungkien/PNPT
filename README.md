@@ -8,3 +8,6 @@ All the info here is based on my personal experience and knowledge I gather from
 
 ### nmap
 
+#### Scan 1 machine:
+nmap -T4 -p- -A <IP address>
+If the machine does not respond to ICMP ping test -> add -Pn
