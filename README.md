@@ -13,7 +13,7 @@ nmap -T4 -p- -A {victim's IP address}
   
 If the machine does not respond to ICMP ping test -> add -Pn
 
-### Enumerate samba version with Wireshak and smbver.sh
+### Enumerate samba version with Wireshark and smbver.sh
 In case nmap cannot tell us the version of samba (port 139 or 445), we need to use smbver.sh + Wireshark  
 
 Download the script at: https://github.com/rewardone/OSCPRepo/blob/master/scripts/recon_enum/smbver.sh  
