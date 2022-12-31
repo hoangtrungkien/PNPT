@@ -27,5 +27,3 @@ We will see the samba version.
 
 **Alternative:**  
 You can use metasploit: *auxiliary/scanner/smb/smb_version*  
-
-Test Test Test
