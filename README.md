@@ -4,15 +4,6 @@ This repository is where I store my cheat sheet for PNPT 2022 course.
 # Disclaimer
 All the info here is based on my personal experience and knowledge I gather from the Internet. Use it at your own risk!
 
-## Reconnaissance
-
-### nmap
-
-#### Scan 1 machine:
-nmap -T4 -p- -A {victim's IP address}
-  
-If the machine does not respond to ICMP ping test -> add -Pn
-
 ### Enumerate samba version with Wireshark and smbver.sh
 In case nmap cannot tell us the version of samba (port 139 or 445), we need to use smbver.sh + Wireshark  
 
