@@ -29,3 +29,4 @@ This script requires the following tools. Make sure you install them before runn
 4. sslscan, wpscan, smbmap, enum4linux, dnsrecon, snmbcheck, snmpwalk, ldapsearch (installed with Kali)
 
 # Usage
+Please refer to Usage at https://github.com/21y4d/nmapAutomator
