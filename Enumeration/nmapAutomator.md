@@ -22,7 +22,7 @@ This script requires the following tools. Make sure you install them before runn
   cd droopescan  
   pip3 install -r requirements.txt
 
-3. nikto, joomscan, odat, smtp-user-enum  
+3. nikto, joomscan, odat, smtp-user-enum, ffuf
     * apt install \<packagename>
 
 
