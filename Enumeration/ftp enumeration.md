@@ -1,5 +1,5 @@
 # Usage
-ftp \<IP> 
-binary
-get \<filename>
-put \<filename>
+ftp \<IP>   
+binary  
+get \<filename>  
+put \<filename>  
