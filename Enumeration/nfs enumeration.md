@@ -5,7 +5,7 @@ server's name is dev
 
 In Kali terminal:  
 
-*└─# showmount -e 192.168.57.14*
+*└─# showmount -e 192.168.57.14*  
 *Export list for 192.168.57.14:*
 */srv/nfs 172.16.0.0/12,10.0.0.0/8,192.168.0.0/16*
 
