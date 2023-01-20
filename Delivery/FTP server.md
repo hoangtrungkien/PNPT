@@ -7,7 +7,7 @@ Assumption: Kali machine: 10.11.4.114
 Open command line  
 ftp 10.11.4.114  
 Name: Anonymous  
-Password: <press enter>  
+Password: \<press enter>  
 
 # Steps to transfer file from Windows machine to FTP server on Kali
-put <file name>
+put \<file name>
