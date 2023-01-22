@@ -33,4 +33,5 @@ git clone https://github.com/21y4d/nmapAutomator.git
 cd nmap
 
 # Usage
-Please refer to Usage at https://github.com/21y4d/nmapAutomator
+Please refer to Usage at https://github.com/21y4d/nmapAutomator  
+Example: *./nmapAutomator.sh -H 10.129.170.253 -t All*

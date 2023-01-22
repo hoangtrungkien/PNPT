@@ -3,9 +3,9 @@ pip3 install pyftpdlib
 python -m pyftpdlib -p21 --write
 
 # Steps to access the FTP server from a Windows machine
-Assumption: Kali machine: 10.11.4.114  
+Assumption: Kali machine: 1.2.3.4  
 Open command line  
-ftp 10.11.4.114  
+ftp 1.2.3.4  
 Name: Anonymous  
 Password: \<press enter>  
 
